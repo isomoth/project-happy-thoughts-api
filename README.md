@@ -12,7 +12,7 @@ NOTE: The UI is based on Technigo's own design. The assignment was to reproduce 
 - Input validation with error handling
 - Optional user name input
 - Tested through MongoDB Compass and Postman
-- Deployed via Heroku and MongoDB Atlas
+- Deployed via Google Cloud and MongoDB Atlas
 
 # Endpoints and requests
 
@@ -34,5 +34,5 @@ NOTE: The UI is based on Technigo's own design. The assignment was to reproduce 
 
 ## View it live
 
-Backend: https://happy-thoughts-api-isabel.herokuapp.com/thoughts
+Backend: https://project-happy-thoughts-api-a2qgymy7ka-lz.a.run.app/
 Frontend: https://isabel-gonzalez-happy-thoughts.netlify.app/
